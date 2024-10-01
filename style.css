@@ -29,3 +29,7 @@
     opacity: 75%;
     transform: translate(40%, 40%);
 }
+
+.squareFourWrap {
+    transform: translate(-2px, -3px);
+}
